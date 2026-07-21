@@ -1,0 +1,41 @@
+[
+  {
+    "name": "account:TokenMetadata",
+    "arr": [
+      237,
+      215,
+      132,
+      182,
+      24,
+      127,
+      175,
+      173
+    ]
+  },
+  {
+    "name": "account:PlatformConfig",
+    "arr": [
+      160,
+      78,
+      128,
+      0,
+      248,
+      83,
+      230,
+      160
+    ]
+  },
+  {
+    "name": "account:LiquidityLock",
+    "arr": [
+      154,
+      210,
+      64,
+      149,
+      2,
+      60,
+      4,
+      78
+    ]
+  }
+]
